@@ -1,0 +1,3 @@
+﻿Mô hình,Train Macro F1,Validation Macro F1,Train-validation gap,Test Macro F1 (mô hình chọn),Số vòng MLP,Loss cuối MLP,MLP chạm max_iter
+Random Forest,1.0,1.0,0.0,0.9772799097744218,,,
+Neural Network (MLP),0.9702160964476438,0.9791409097674482,-0.008924813319804326,,40.0,0.005672040627190784,True

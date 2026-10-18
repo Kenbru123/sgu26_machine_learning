@@ -1,0 +1,30 @@
+{
+  "selected_model": "Random Forest",
+  "selection_metric": "validation_macro_f1",
+  "validation_results": [
+    {
+      "Mô hình": "Random Forest",
+      "Accuracy": 0.9990523893326113,
+      "Macro F1": 0.9950908780282121,
+      "Weighted F1": 0.9990533885275527,
+      "Thời gian (giây)": 8.1
+    },
+    {
+      "Mô hình": "Neural Network (MLP)",
+      "Accuracy": 0.9981047786652227,
+      "Macro F1": 0.9791409097674482,
+      "Weighted F1": 0.9981067473903912,
+      "Thời gian (giây)": 19.3
+    }
+  ],
+  "test_metrics": {
+    "model": "Random Forest",
+    "accuracy": 0.998984689111806,
+    "macro_f1": 0.9772799097744218,
+    "weighted_f1": 0.9989834150183358,
+    "macro_precision": 0.9845214693937927,
+    "macro_recall": 0.9709704737785159
+  },
+  "random_state": 42,
+  "target": "Attack_type"
+}
